@@ -1,0 +1,10 @@
+.DS_Store
+*.env
+*.key
+*.pem
+secrets/
+build/
+__pycache__/
+.venv/
+*.uf2
+*.elf
